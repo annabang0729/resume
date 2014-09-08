@@ -1,9 +1,17 @@
 
   .location {
-            font-size: 10pt;
+            font-size: 10pt; 
             }
-            
+
+  section {
+  }
+  
   div {
-      background-color: pink;
       
+      }
+      
+  div.location
+  
+  .experience h3{
+    font-size: 30pt;
       }
