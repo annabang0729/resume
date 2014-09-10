@@ -1,4 +1,14 @@
 
+.HEADER{
+    text-align:right;
+    margin-left:20%;  
+    }
+    
+.HEADER{
+    margin-left:40%;
+  }
+  
+  
   body {
     margin: 0 20px;
     }
