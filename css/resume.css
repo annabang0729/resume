@@ -1,6 +1,5 @@
 
 .HEADER{
-    text-align:right;
     margin-left:10%;
     }
     
@@ -9,8 +8,8 @@
   }
   
   
-  body {
-    margin: 0 20px;
+body {
+    margin: 5%;
     }
   
   
