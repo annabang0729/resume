@@ -1,16 +1,18 @@
 
+.CONTAINER{
+    margin-top:5%;
+    }
+
+
 .HEADER{
-    margin-left:10%;
+    margin-left:%;
     }
     
 .SECTION{
     margin-left:20%;
   }
   
-  
-body {
-    margin: 5%;
-    }
+
   
   
   .location {
